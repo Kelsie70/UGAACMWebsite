@@ -2,7 +2,7 @@
     background-color: #f6f6f6; 
     color: black;
     padding: 100px 25px;
-    font-family: 'Droid Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .container-fluid {
@@ -44,7 +44,7 @@
     line-height: 1.42857143 !important;
     letter-spacing: 4px;
     border-radius: 0;
-    font-family: 'Droid Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .navbar li a, .navbar .navbar-brand {
@@ -114,11 +114,11 @@ footer .glyphicon {
 }
 
 h2{
-font-family: 'Droid Sans', sans-serif;
+font-family: 'Open Sans', sans-serif;
 }
 h4{
-font-family: 'Droid Sans', sans-serif;
+font-family: 'Open Sans', sans-serif;
 }
 p{
-font-family: 'Droid Serif', sans;
+font-family: 'Source Sans Pro', sans-serif;
 }
